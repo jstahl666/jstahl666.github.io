@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Task Widget — sign-in complete</title>
+  <style>
+    body { font: 16px -apple-system, system-ui, sans-serif; background: #0F0F1A;
+           color: #E8E8F4; margin: 0; min-height: 100vh; display: flex;
+           align-items: center; justify-content: center; text-align: center; }
+    .card { max-width: 22rem; padding: 2rem 1.5rem; }
+    h1 { font-size: 1.2rem; margin: 0 0 .5rem; }
+    p { color: #9090BB; line-height: 1.5; margin: 0; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Sign-in complete ✓</h1>
+    <p>You can close this tab and return to Task Widget.</p>
+  </div>
+  <!--
+    OAuth 2.0 redirect landing for the Task Widget MCP harvester. When the app
+    is installed, Android App Links / iOS Universal Links open it directly via
+    /.well-known/assetlinks.json (this page is only the fallback). The
+    authorization code is in this URL's query string; the app reads it natively.
+  -->
+</body>
+</html>

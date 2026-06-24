@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jeremystahl.task_widget",
+      "sha256_cert_fingerprints": [
+        "57:36:F4:E1:BE:85:C4:BB:07:A2:E5:C6:B3:18:FF:24:98:A1:3B:AE:EF:F9:EF:A1:1C:09:CD:DD:EC:42:8D:7E"
+      ]
+    }
+  }
+]
