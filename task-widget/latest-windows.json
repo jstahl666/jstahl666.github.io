@@ -1,6 +1,6 @@
 {
-  "build": 2,
-  "version": "1.0.1",
-  "notes": "Dark mode (System/Light/Dark), move tasks & projects across Spaces, Tasks tab grouped by project, AI email-reply drafts, desktop tray, and in-app self-update.",
-  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.1.zip"
+  "build": 3,
+  "version": "1.0.2",
+  "notes": "Gmail reply drafts now show the real connection scope, plus this release exercises the desktop in-app auto-updater end to end.",
+  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.2.zip"
 }
