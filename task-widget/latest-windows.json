@@ -1,6 +1,6 @@
 {
-  "build": 3,
-  "version": "1.0.2",
-  "notes": "Gmail reply drafts now show the real connection scope, plus this release exercises the desktop in-app auto-updater end to end.",
-  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.2.zip"
+  "build": 4,
+  "version": "1.0.3",
+  "notes": "Suggestions & tasks now link back to the source email, tasks show where they came from, and Gmail-sourced tasks get a Draft-a-reply button.",
+  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.3.zip"
 }
