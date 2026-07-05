@@ -1,6 +1,6 @@
 {
-  "build": 4,
-  "version": "1.0.3",
-  "notes": "Suggestions & tasks now link back to the source email, tasks show where they came from, and Gmail-sourced tasks get a Draft-a-reply button.",
-  "apkUrl": "https://jstahl666.github.io/task-widget/task-widget-1.0.3.apk"
+  "build": 5,
+  "version": "1.0.4",
+  "notes": "Tasks + Projects are now one Home tab. Add a task at the end of a project or pick its project on the new-task screen. Switching Spaces keeps your scroll position. Gmail suggestions are unread-only and show who/when they came from; Open source now prefers the app.",
+  "apkUrl": "https://jstahl666.github.io/task-widget/task-widget-1.0.4.apk"
 }
