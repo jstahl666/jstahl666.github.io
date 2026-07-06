@@ -1,6 +1,6 @@
 {
-  "build": 6,
-  "version": "1.0.5",
-  "notes": "New: tap ✨ Refine on any task to clean up its title and auto-fill the due date and project from the wording — it previews the changes first and never wipes a due date or project you set yourself.",
-  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.5.zip"
+  "build": 7,
+  "version": "1.0.6",
+  "notes": "Desktop now runs as a single instance — launching Tasks again brings the existing window to the front (and restores it from the tray) instead of opening a second copy.",
+  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.6.zip"
 }
