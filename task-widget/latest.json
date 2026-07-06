@@ -1,6 +1,6 @@
 {
-  "build": 6,
-  "version": "1.0.5",
-  "notes": "New: tap ✨ Refine on any task to clean up its title and auto-fill the due date and project from the wording — it previews the changes first and never wipes a due date or project you set yourself.",
-  "apkUrl": "https://jstahl666.github.io/task-widget/task-widget-1.0.5.apk"
+  "build": 9,
+  "version": "1.0.8",
+  "notes": "Sync is now per-Space: each Space (Personal / Work) syncs independently, so a device can keep one Space local-only. New Settings toggle: \"Show Work Space\" to hide Work on a device.",
+  "apkUrl": "https://jstahl666.github.io/task-widget/task-widget-1.0.8.apk"
 }
