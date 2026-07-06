@@ -1,6 +1,6 @@
 {
-  "build": 7,
-  "version": "1.0.6",
-  "notes": "Desktop now runs as a single instance — launching Tasks again brings the existing window to the front (and restores it from the tray) instead of opening a second copy.",
-  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.6.zip"
+  "build": 8,
+  "version": "1.0.7",
+  "notes": "New in Settings: \"Launch on startup\" — turn it on to have Tasks open automatically when you sign in to Windows.",
+  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.7.zip"
 }
