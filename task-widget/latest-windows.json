@@ -1,6 +1,6 @@
 {
-  "build": 8,
-  "version": "1.0.7",
-  "notes": "New in Settings: \"Launch on startup\" — turn it on to have Tasks open automatically when you sign in to Windows.",
-  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.7.zip"
+  "build": 9,
+  "version": "1.0.8",
+  "notes": "Sync is now per-Space, so a device can sync Personal while keeping Work local-only. New Settings toggle: \"Show Work Space\" (hide Work on this device).",
+  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.8.zip"
 }
