@@ -1,6 +1,6 @@
 {
-  "build": 5,
-  "version": "1.0.4",
-  "notes": "Tasks + Projects are now one Home tab. Add a task at the end of a project or pick its project on the new-task screen. Switching Spaces keeps your scroll position. Gmail suggestions are unread-only and show who/when they came from; Open source now prefers the app.",
-  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.4.zip"
+  "build": 6,
+  "version": "1.0.5",
+  "notes": "New: tap ✨ Refine on any task to clean up its title and auto-fill the due date and project from the wording — it previews the changes first and never wipes a due date or project you set yourself.",
+  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.5.zip"
 }
