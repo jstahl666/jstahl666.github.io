@@ -1,6 +1,6 @@
 {
-  "build": 9,
-  "version": "1.0.8",
-  "notes": "Sync is now per-Space: each Space (Personal / Work) syncs independently, so a device can keep one Space local-only. New Settings toggle: \"Show Work Space\" to hide Work on a device.",
-  "apkUrl": "https://jstahl666.github.io/task-widget/task-widget-1.0.8.apk"
+  "build": 10,
+  "version": "1.0.9",
+  "notes": "Streamlined for phone: this is now a single Personal task list — the Work Space and its toggle have been removed on mobile.",
+  "apkUrl": "https://jstahl666.github.io/task-widget/task-widget-1.0.9.apk"
 }
