@@ -1,6 +1,6 @@
 {
-  "build": 9,
-  "version": "1.0.8",
-  "notes": "Sync is now per-Space, so a device can sync Personal while keeping Work local-only. New Settings toggle: \"Show Work Space\" (hide Work on this device).",
-  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.8.zip"
+  "build": 11,
+  "version": "1.0.10",
+  "notes": "Sync reliability fix: pulling changes from another device no longer fails when a task was assigned to a project created after it (Android → desktop sync could get stuck on \"last sync failed\").",
+  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.10.zip"
 }

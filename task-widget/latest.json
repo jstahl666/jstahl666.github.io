@@ -1,6 +1,6 @@
 {
-  "build": 10,
-  "version": "1.0.9",
-  "notes": "Streamlined for phone: this is now a single Personal task list — the Work Space and its toggle have been removed on mobile.",
-  "apkUrl": "https://jstahl666.github.io/task-widget/task-widget-1.0.9.apk"
+  "build": 11,
+  "version": "1.0.10",
+  "notes": "Sync reliability fix: pulling changes from another device no longer fails when a task was assigned to a project created after it (Android → desktop sync could get stuck on \"last sync failed\").",
+  "apkUrl": "https://jstahl666.github.io/task-widget/task-widget-1.0.10.apk"
 }
