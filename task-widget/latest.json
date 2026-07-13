@@ -1,6 +1,6 @@
 {
-  "build": 12,
-  "version": "1.0.11",
-  "notes": "Projects now always show on the Home tab, even when they have no tasks — so a project you just made stays visible for planning.",
-  "apkUrl": "https://jstahl666.github.io/task-widget/task-widget-1.0.11.apk"
+  "build": 13,
+  "version": "1.0.12",
+  "notes": "Refine now shows a one-time note that it uses your AI key, then never again. Cleaner new-task screen (dropped the preview echo). The Home + button moved into an \"Add task\" row under the No project group.",
+  "apkUrl": "https://jstahl666.github.io/task-widget/task-widget-1.0.12.apk"
 }
