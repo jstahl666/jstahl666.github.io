@@ -1,6 +1,6 @@
 {
-  "build": 13,
-  "version": "1.0.12",
-  "notes": "Refine now shows a one-time note that it uses your AI key, then never again. Cleaner new-task screen (dropped the preview echo). The Home + button moved into an \"Add task\" row under the No project group.",
-  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.12.zip"
+  "build": 14,
+  "version": "1.0.13",
+  "notes": "Subtasks can now nest. New Feedback tab. Drag tasks to reorder them or move them between projects. Harvest one source at a time, with a verification pass that drops items already resolved, and color coding per source. Checking something off now lingers, then clears. Tasks show the date you created them. Moving tasks between Spaces has been removed.",
+  "zipUrl": "https://jstahl666.github.io/task-widget/task-widget-windows-1.0.13.zip"
 }
