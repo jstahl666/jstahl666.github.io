@@ -1,6 +1,6 @@
 {
-  "build": 14,
-  "version": "1.0.13",
-  "notes": "Subtasks can now nest. New Feedback tab. Drag tasks to reorder them or move them between projects. Harvest one source at a time, with a verification pass that drops items already resolved, and color coding per source. Checking something off now lingers, then clears. Tasks show the date you created them. Moving tasks between Spaces has been removed.",
-  "apkUrl": "https://jstahl666.github.io/task-widget/task-widget-1.0.13.apk"
+  "build": 15,
+  "version": "1.0.14",
+  "notes": "Drag a project by the handle on its header to put your projects in any order you want. The whole project moves, tasks and all, and the order syncs to your other device.",
+  "apkUrl": "https://jstahl666.github.io/task-widget/task-widget-1.0.14.apk"
 }
